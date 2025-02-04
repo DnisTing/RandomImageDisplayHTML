@@ -1,5 +1,5 @@
 var img = new Array();
-img[0] = 'https://drive.google.com/thumbnail?id=1yEXOzytE_1n7CSitHKVlhTz3xoFAlW0K&sz=s4000
+img[0] = 'https://drive.google.com/thumbnail?id=1yEXOzytE_1n7CSitHKVlhTz3xoFAlW0K&sz=s4000'
 img[1] = 'https://drive.google.com/thumbnail?id=1tK-kcZe_zBdH4c3SZpHquC6puNIksw5f&sz=s4000'
 img[2] = 'https://drive.google.com/thumbnail?id=1-pNInXcQVwKZVthBtU-PwwcCTWNnraqE&sz=s4000'
 img[3] = 'https://drive.google.com/thumbnail?id=16E4O2RKqlLSlyXcOz1YbhVt7FKpiPb98&sz=s4000'
