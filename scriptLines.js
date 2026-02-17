@@ -2,7 +2,7 @@ var img = new Array();
 img[0] = 'https://drive.google.com/thumbnail?id=1tjcTmBrqXv6Fv-G74mkXUblDD2Kp_wYB&sz=s4000'
 img[1] = 'https://drive.google.com/thumbnail?id=1my1BFs_Nr2cPD0DkDKiCmpok_gH4963j&sz=s4000'
 img[2] = 'https://drive.google.com/thumbnail?id=1j7uQjq_d3WN6Axz1rZpUjv0owqzin2aT&sz=s4000'
-img[3] = 'https://drive.google.com/thumbnail?id=16vUsdJX4leKzAuNy_6nltiJGdqRgr2O4&sz=s4000'
+img[3] = 'https://drive.google.com/thumbnail?id=1RFygwKY4K4EhmNw5NxpvUlpknmjChY33&sz=s4000'
 img[4] = 'https://drive.google.com/thumbnail?id=1_yLFoYDClmn9mnI9he48nxv5psafOl5e&sz=s4000'
 img[5] = 'https://drive.google.com/thumbnail?id=11wJJsqQzHpQbvj5xQ70W7ATRpxOYSWdU&sz=s4000'
 img[6] = 'https://drive.google.com/thumbnail?id=1yxfqh2P-e-q9DM7ewX5ZCK1horoEjqEv&sz=s4000'
